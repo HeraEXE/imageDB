@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImageDB</string>
+    <string name="permissions_denied">Permissions denied, can\'t continue</string>
+    <string name="url_error">Url cannot be loaded</string>
+    <string name="add_menu">Add</string>
+    <string name="add_url_hint">Enter image url</string>
+    <string name="add_button">@string/add_menu</string>
+</resources>
